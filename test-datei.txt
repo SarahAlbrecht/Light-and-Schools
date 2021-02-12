@@ -2,9 +2,8 @@ Hallo Welt,
 
 dies ist eine Testdatei.
 
-<<<<<<< HEAD
-Jan Philip
-=======
+
+
 
 Liebe Grüße
 >>>>>>> 75ee83dd5fada9186ee421751ba28ec95c1d53cb
